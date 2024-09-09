@@ -41,4 +41,10 @@ module.exports = getTotalIsles;
 
 write a java program to print hello on the screen and your name on seperate line
 
-write a java program to print to divide two two Node.
+write a java program to  to divide two two AND PRINT RESULT ON Screen
+
+
+WRITE A PROGRAM TO SUM SUB DIV MUL OF TWO No.
+
+
+PRINT TABLE
