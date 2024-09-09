@@ -41,4 +41,4 @@ module.exports = getTotalIsles;
 
 write a java program to print hello on the screen and your name on seperate line
 
-write a java program to print 
+write a java program to print to divide two two Node.
